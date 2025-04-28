@@ -1,10 +1,15 @@
-# clone-tabnews
+Projeto de um sitema com objetivo de estudar melhor tecnologias tenho interesse em aprender.
 
-### Repo do curso do Felipe Deschamps
+- Docker
+- React
+- Next
+- Postgres
+- SQL
+- TDD
 
-Implementação do https://www.tabnews.com.br para o https://curso.dev
+Hospedagem ainda não feita.
+Objetivos podem ser encontrados nas Issues.
 
-Aula 12 Pendente
-Aula 18 2/5 Iniciada
+18.2.5 
 
 ![work-in-progress-design-template-6cc0b86afbb81d0528f26113e3ec02cf_screen](https://github.com/user-attachments/assets/bfbbd085-19ba-4bf0-aeec-8bee2ed8a32d)
